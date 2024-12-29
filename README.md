@@ -1,9 +1,14 @@
 Name: VAISHNAVI SHELKE
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT2WDS101
+
 Domain: Front-End Devlopment
+
 Duration: December to March 2025
-Mentor: 
+
+Mentor:Neela Kumar 
 
 Overview of the Project
 Project: Recipe Finder Application
